@@ -117,7 +117,7 @@ public class InfoSystem{
 			yearLevel = sc.nextInt();
 			System.out.println("Crush Name: ");
 			cName = sc.next();
-			System.out.println("Course Code & Description: ");
+			System.out.println("Favorite Course Code & Description: ");
 			cCourse = sc.next();
 			cDescription = sc.next();
 
